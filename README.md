@@ -43,7 +43,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="minakashi kadam"/>
   </a>
 
-  <a href="[https://github.com/rushikeshya](https://github.com/minakshi573)" target="_blank">
+  <a href="https://github.com/minakshi573" target="_blank">
     <img src="https://img.shields.io/badge/Github-0A0A0A?style=for-the-badge&logo=github&logoColor=white" alt="minakshi573" />
   </a>
 
