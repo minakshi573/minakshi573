@@ -42,19 +42,15 @@
   <a href="https://www.linkedin.com/in/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="minakashi kadam"/>
   </a>
-  <a href="https://rushikeshya.github.io/rushiy" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=Rushikesh.to&logoColor=white" alt="rushikeshyadav" />
+
+  <a href="[https://github.com/rushikeshya](https://github.com/minakshi573)" target="_blank">
+    <img src="https://img.shields.io/badge/Github-0A0A0A?style=for-the-badge&logo=github&logoColor=white" alt="minakshi573" />
   </a>
 
-  <a href="https://github.com/rushikeshya" target="_blank">
-    <img src="https://img.shields.io/badge/Github-0A0A0A?style=for-the-badge&logo=github&logoColor=white" alt="rushikeshya" />
-  </a>
-  <a href="https://medium.com/@yadavrushikesh" target="blank">
-    <img src="https://img.shields.io/badge/Blogs-0A0A0A?style=for-the-badge&logo=medium&logoColor=white" alt="rushikeshyadav" />
-  </a>
-  <a href="https://twitter.com/rushi_yadav1122" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
+<a href="mailto:minakshikadam573@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
 </p>
 <br />
 
@@ -64,10 +60,6 @@
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
 🎓   Recent graduate passionate about Data Science and Machine Learning, proficient in Python libraries.<br/>
-
-🏅   Earned a Full Stack Data Science certification, showcasing end-to-end data science knowledge.<br/>
-
-🚀   Completed an intensive bootcamp, gaining comprehensive understanding of Python, DSA, and Data Science.<br/>
 
 🔬   Enjoys to do programming, exploring data, using predictive modeling, and always open to feedback.<br/>
 
@@ -79,7 +71,7 @@
 
 ❤️   Love to writing code and learning new features<br/>
 
-📧   Reach me anytime: rushikeshyadav301220@gmail.com<br/>
+📧   Reach me anytime: minakshikadam573@gmail.com<br/>
 
 
 
